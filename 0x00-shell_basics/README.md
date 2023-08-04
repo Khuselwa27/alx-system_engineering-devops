@@ -9,4 +9,5 @@ The script 6-firstdirectory prints a directory named my_first_directory in the /
 The script 7-movethatfile prints move the file betty from /tmp/ to /tmp/my_first_directory.
 The script 8-firstdelete prints the delete file command.
 The script 9-firstdirdeletion prints Delete the directory my_first_directory that is in the /tmp directory
-The script 10-back prints changes the working directory to the previous one. 
+The script 10-back prints changes the working directory to the previous one.
+The script 11-lists prints  lists all files in the current directory and the parent of the working directory and the /boot directory (in this order), in long format. 
