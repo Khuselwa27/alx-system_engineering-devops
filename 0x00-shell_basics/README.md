@@ -5,3 +5,4 @@ The script 2-bring_me_home prints home of working directory.
 The script 3-listfiles prints current directory contents in a long format.
 The script 4-listmorefiles prints directory contents, including hidden files.
 The script 5-listfilesdigitonly prints  directory contents.Long format with user and group IDs displayed numerically and hidden files.
+The script 6-firstdirectory prints a director'y named my_first_directory in the /tmp/ directory.
