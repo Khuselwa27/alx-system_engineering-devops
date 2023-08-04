@@ -9,8 +9,10 @@ The script 6-firstdirectory prints a directory named my_first_directory in the /
 The script 7-movethatfile prints move the file betty from /tmp/ to /tmp/my_first_directory.
 The script 8-firstdelete prints the delete file command.
 The script 9-firstdirdeletion prints Delete the directory my_first_directory that is in the /tmp directory
-The script 10-back prints changes the working directory to the previous one.
+The script 10-back prints change the working directory to the previous one.
 The script 11-lists prints  lists all files in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 The script 12-file_type the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
 The script 13-symbolic_link prints symbolic link to /bin/ls, named __ls__.
-The script 14-copy_html prints copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.  
+The script 14-copy_html prints copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory. 
+The script 100-lets_move prints moves all files beginning with an uppercase letter to the directory /tmp/u.
+ 
