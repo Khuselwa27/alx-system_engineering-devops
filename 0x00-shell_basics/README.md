@@ -15,4 +15,5 @@ The script 12-file_type the type of the file named iamafile. The file iamafile w
 The script 13-symbolic_link prints symbolic link to /bin/ls, named __ls__.
 The script 14-copy_html prints copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory. 
 The script 100-lets_move prints moves all files beginning with an uppercase letter to the directory /tmp/u.
-The script 101-clean_emacs prints deletes all files in the current working directory that end with the character. 
+The script 101-clean_emacs prints deletes all files in the current working directory that end with the character.
+The script 102-tree prints creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.  
