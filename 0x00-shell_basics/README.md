@@ -7,3 +7,4 @@ The script 4-listmorefiles prints directory contents, including hidden files.
 The script 5-listfilesdigitonly prints  directory contents.Long format with user and group IDs displayed numerically and hidden files.
 The script 6-firstdirectory prints a directory named my_first_directory in the /tmp/ directory.
 The script 7-movethatfile prints move the file betty from /tmp/ to /tmp/my_first_directory.
+The script 8-firstdelete prints the delete file command. 
