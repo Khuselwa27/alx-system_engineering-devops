@@ -4,3 +4,4 @@
 3.This script prints a  script that counts the number of directories in the PATH.
 4.This script prints  a script that lists environment variables.
 5.This script prints a script that lists all local variables and environment variables, and functions.
+6.This script prints a script that creates a new local variable.
