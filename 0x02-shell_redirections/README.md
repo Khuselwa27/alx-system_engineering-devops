@@ -11,7 +11,8 @@
 11.This script prints a script that counts the number of directories and sub-directories in the current directory.
 12.This script prints a script that displays the 10 newest files in the current directory.
 13.This script prints a script that takes a list of words as input and prints only words that appear exactly once.
-14.This script Display lines containing the pattern “root” from the file /etc/passwd.
-15.This script Display the number of lines that contain the pattern “bin” in the file /etc/passwd
-16.This script Display lines containing the pattern “root” and 3 lilnes after them ink4 the file /etc/passwd.
+14.This script Displays lines containing the pattern “root” from the file /etc/passwd.
+15.This script Displays the number of lines that contain the pattern “bin” in the file /etc/passwd
+16.This script Displays lines containing the pattern “root” and 3 lilnes after them ink4 the file /etc/passwd.
 17.This script displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+18.This script Displays all lines of the file /etc/ssh/sshd_config starting with a letter.
