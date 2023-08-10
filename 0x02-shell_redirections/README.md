@@ -17,3 +17,4 @@
 17.This script displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 18.This script Displays all lines of the file /etc/ssh/sshd_config starting with a letter.
 19.This script prints a script that Replaces all characters A and c from input to Z and e respectively.
+20.This script prints a script that creates  a script that removes all letters c and C from input.
