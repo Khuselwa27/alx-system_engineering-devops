@@ -5,3 +5,4 @@
 4.This script prints  a script that lists environment variables.
 5.This script prints a script that lists all local variables and environment variables, and functions.
 6.This script prints a script that creates a new local variable.
+7.This script prints a script that creates a new global variable.
