@@ -1,2 +1,3 @@
 0.This scripts prints a script that creates an alias.
 1.This script prints a script that prints hello user, where user is the current Linux user.
+2.This script prints Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
